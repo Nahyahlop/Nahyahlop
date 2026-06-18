@@ -56,13 +56,15 @@ Today, I'm a Junior Full Stack Developer building responsive, user-centered web 
 
 
 ### Tools & Workflow
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge)
 ![Accessibility](https://img.shields.io/badge/WCAG_Accessibility-0A66C2?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
+
 
 ---
 
