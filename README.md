@@ -120,12 +120,6 @@ A full-stack marketplace built for the marine aquarium industry, designed to con
 
 ---
 
-## 📊 Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahyahlop\&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/ana-m-lopez-hidalgo/
