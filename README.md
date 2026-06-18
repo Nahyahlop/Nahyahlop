@@ -130,21 +130,3 @@ A full-stack marketplace built for the marine aquarium industry, designed to con
 
 
 ---
-
-## 🌱 Currently Learning
-
-* CPACC preparation and web accessibility best practices
-* Testing with modern JavaScript tools
-* Advanced React patterns and architecture
-
----
-
-## 🤝 What I Bring to a Team
-
-* User-centered product thinking
-* Cross-functional collaboration experience
-* Strong communication and problem-solving skills
-* Business and marketing perspective
-* Experience translating user needs into digital solutions
-
----
