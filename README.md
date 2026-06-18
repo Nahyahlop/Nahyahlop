@@ -87,7 +87,7 @@ A full-stack marketplace built for the marine aquarium industry, designed to con
 
 🔗 **Repository:** (https://github.com/Nahyahlop/CoralHub)
 
-🌐 **Live Demo:** [Add demo link]
+🌐 **Live Demo:** https://sample-service-name-qb1a.onrender.com
 
 ---
 
